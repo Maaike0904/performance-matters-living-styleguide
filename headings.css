@@ -52,13 +52,12 @@ h2 {
 }
 
 h3 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 1.4em;
-  font-weight: 600;
-  margin-left: -15px;
-  margin-top: 33px;
-  color: var(--back1);
-  margin-bottom: 0.5em;
+  color: var(--pinda);
+  font-size: 1.5em;
+  margin-bottom: 0.6em;
+  margin-top: 1em;
+  margin-left: 0.7em;
+  font-weight: 100;
 }
 
 h4 {
